@@ -57,7 +57,7 @@ The dashboard helps answer important personal finance questions such as:
 ## Dashboard Preview
 ## Dashboard Preview
 
-![Dashboard](pesa2.png)
+![Dashboard](pesa2.PNG)
 
 ---
 
